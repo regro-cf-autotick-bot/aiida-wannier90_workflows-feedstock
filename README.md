@@ -1,11 +1,11 @@
-About aiida-wannier90_workflows
-===============================
+About aiida-wannier90_workflows-feedstock
+=========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiida-wannier90_workflows-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/aiidateam/aiida-wannier90-workflows
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiida-wannier90_workflows-feedstock/blob/main/LICENSE.txt)
 
 Summary: Advanced AiiDA workflows for Wannier90
 
