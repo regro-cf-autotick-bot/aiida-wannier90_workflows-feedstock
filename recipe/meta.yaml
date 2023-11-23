@@ -20,10 +20,13 @@ requirements:
     - python >=3.6
     - reentry
   run:
-    - aiida-core >=1.1.1,<2
-    - aiida-quantumespresso >=3.0.0a6
-    - aiida-wannier90 >=2.0.0
-    - python >=3.6
+    - aiida-core >=2.0,<3
+    - aiida-pseudo >=0.6
+    - aiida-quantumespresso >=4.4
+    - aiida-wannier90 >=2.1
+    - python >=3.8
+    - click >=8.0
+    - colorama
 
 test:
   imports:
